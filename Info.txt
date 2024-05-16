@@ -1,0 +1,20 @@
+By: Jan Dhaniel M. Edradan
+
+based on: 
+https://www.youtube.com/watch?v=qwFBXuEeg1U&list=PPSV
+
+
+Before using download requirements first
+
+and do this commands 
+
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+
+
+
+Accs:
+
+admin - admin
+test - //123456
